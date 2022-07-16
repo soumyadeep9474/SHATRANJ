@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Guava Library">
+    <CLASSES>
+      <root url="file://C:/Guava Library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Guava Library/guava-31.1/android/guava-testlib/src" />
+      <root url="file://C:/Guava Library/guava-31.1/android/guava-testlib/test" />
+      <root url="file://C:/Guava Library/guava-31.1/android/guava-tests/benchmark" />
+      <root url="file://C:/Guava Library/guava-31.1/android/guava-tests/test" />
+      <root url="file://C:/Guava Library/guava-31.1/android/guava/src" />
+      <root url="file://C:/Guava Library/guava-31.1/futures/failureaccess/src" />
+      <root url="file://C:/Guava Library/guava-31.1/futures/listenablefuture1/src" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/base/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/cache/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/collect/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/escape/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/primitives/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/src-super/com/google/common/util/concurrent/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test-super/com/google/common/collect/testing/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test-super/com/google/common/math/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test-super/com/google/common/primitives/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test-super/com/google/common/testing/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-gwt/test-super/com/google/common/util/concurrent/super" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-testlib/src" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-testlib/test" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-tests/benchmark" />
+      <root url="file://C:/Guava Library/guava-31.1/guava-tests/test" />
+      <root url="file://C:/Guava Library/guava-31.1/guava/src" />
+      <root url="file://C:/Guava Library/guava-31.1/refactorings" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Guava Library" recursive="false" />
+  </library>
+</component>
