@@ -1,1 +1,1 @@
-ait is a chess engine made in java from scratch
+it is a chess engine made in java from scratch
